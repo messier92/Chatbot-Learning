@@ -13,3 +13,7 @@ BoW: https://machinelearningmastery.com/gentle-introduction-bag-words-model/
 4. train_chatbot trains the chatbot and generates a data.pth file, which will be used by chatbot_main as the model
 5. Run the programme using chatbot_main
 6. New responses can be added in by adding it into the intents.json file – remember to run train_chatbot again to update the data.pth file!
+
+TELEGRAM BOT:
+
+1. From YouTube tutorial https://www.youtube.com/watch?v=NwBWW8cNCP4
