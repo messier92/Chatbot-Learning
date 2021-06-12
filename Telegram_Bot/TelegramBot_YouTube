@@ -4,7 +4,7 @@ import os
 import telebot
 import yfinance as yf
 
-bot = telebot.TeleBot("1877758751:AAEZe0BVqFWIYXeHeiFKvKN860UnF1GniyM")
+bot = telebot.TeleBot(API_KEY_HERE)
 
 @bot.message_handler(commands=['start', 'help'])
 def send_welcome(message):
